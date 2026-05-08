@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu Apr 30 12:58:26 2026
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : de10l-neorv32-sdram-qsys
+Top-level Entity Name : top
+Family : MAX 10
+Total logic elements : 8,021
+    Total combinational functions : 7,152
+    Dedicated logic registers : 2,622
+Total registers : 2622
+Total pins : 59
+Total virtual pins : 0
+Total memory bits : 788,480
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
+UFM blocks : 0
+ADC blocks : 0

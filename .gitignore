@@ -1,0 +1,13 @@
+
+# Do not commit local RISC-V toolchains
+hardware/**/xpack-riscv-none-elf-gcc-*/
+hardware/**/*xpack-riscv-none-elf-gcc*.tar.gz
+
+# Common build outputs
+**/build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
